@@ -1,0 +1,21 @@
+body {
+	font-family: monospace, sans-serif;
+	color: darkgreen;
+	background-color: #5d2400;
+	text-align: center;
+}
+
+h1 {
+	font-family: monospace, sans-serif;
+	font-size: 48px;
+}
+
+h2 {
+	font-family: monospace, sans-serif;
+	font-size: 24px;
+}
+
+.crystal-image {
+	width: 300px;
+	height: 300px;
+}
